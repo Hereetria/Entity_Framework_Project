@@ -1,0 +1,34 @@
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Properties.Resources.resources
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CopyComplete
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Kategoriler.resources
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.FrmMain.resources
+C:\Users\Okan\Desktop\Software Development\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.FrmUrun.resources
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Kategoriler.resources
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.FrmMain.resources
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.FrmUrun.resources
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Properties.Resources.resources
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity F.C4AAD53A.Up2Date
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+C:\Users\Okan\Desktop\Drive\Projects\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
